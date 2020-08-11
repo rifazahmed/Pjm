@@ -1,34 +1,21 @@
-#EXTM3U
-
-#SOURCEITbd04
-
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image062cdddeb243234b.png" group-title="ICC 2",BTV
 http://103.205.133.14/hls/btv.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/btv_world.jpg" group-title="BDIX01",BTV World
 PT1BTzFOVGJ1TTNhdVZIYWo5Q1pzSjNiMzlsZDBKMkxsWlhhczlDZGw1bUx2OUdaaHBXYW5sR1p1WUhkd2xtTDV4R2J2QkhkcDl5TDZNSGMwUkhh
-
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-GXdlFshR5WE/VhyWOUVeB0I/AAAAAAAABP8/3QQypKE6c0o/w1200-h630-p-k-no-nu/atn-bangla.jpg" group-title="BDIX01",ATN Bangla
 PWdUZHowbUx6dG1iMWgyWXZFR2JuNVdZaTlsYjBGMkxsWlhhczlDZGw1bUx2OUdaaHBXYW5sR1p1WUhkd2xtTDV4R2J2QkhkcDl5TDZNSGMwUkhh
-
 #EXTINF:-1 tvg-logo="https://www.channelionline.com/wp-content/uploads/2019/07/channel-i-logo-1.png" group-title="BDIX01",Channel I
 PT1BTzFOVGJ1TTNhdVZIYWo5U2FmeFdadTVXWW9OMkxsWlhhczlDZGw1bUx2OUdaaHBXYW5sR1p1WUhkd2xtTDV4R2J2QkhkcDl5TDZNSGMwUkhh
-
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="ICC 2",Ekushey TV
 http://103.205.133.14/hls/ekushey.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="BDIX01",NTV
 PT1BTzFOVGJ1TTNhdVZIYWo5aWQwNTJMbFpYYXM5Q2RsNW1MdjlHWmhwV2FubEdadVlIZHdsbUw1eEdidkJIZHA5eUw2TUhjMFJIYQ==
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sqdKl40.png" group-title="BANGLADESH",NTV (UK)
 https://a.jsrdn.com/r-373576a1/publish/22680_3BR3zocwi9/index.m3u8
- 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sqdKl40.png" group-title="BANGLADESH",NTV (US)
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSGPCmBgjEseXegUFsZnAMzEuqNJNopLpApz8XhEBAv5JWtSYbT&usqp=CAU" group-title="BDIX01",RTV
 NFUzTXQ1Q2R6bEdiNUZHYnc5aWQwSjNMbFpYYXM5Q2RsNW1MdjlHWmhwV2FubEdadVlIZHdsbUw1eEdidkJIZHA5eUw2TUhjMFJIYQ==
-
 #EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/boishakhi.jpg" group-title="BDIX01",Boishakhi TV
 PT1BTzFOVGJ1TTNhdVZIYWo5aWQwOVZhb3RXWW9OWGF2SjJMbFpYYXM5Q2RsNW1MdjlHWmhwV2FubEdadVlIZHdsbUw1eEdidkJIZHA5eUw2TUhjMFJIYQ==
 
